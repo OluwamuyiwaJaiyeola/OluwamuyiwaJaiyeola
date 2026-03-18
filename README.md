@@ -12,7 +12,7 @@ Customer Cohort & RFM Analysis
 github.com/oluwamuyiwajaiyeola/ShopSphere_Cohort_Analysis
 
 GAN Training Stability Research  
-github.com/oluwamuyiwajaiyeola/GAN-Stability-Research
+github.com/oluwamuyiwajaiyeola/GAN-Training-Stability-Research
 
 ## Tools
 
