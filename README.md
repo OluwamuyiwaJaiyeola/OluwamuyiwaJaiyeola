@@ -1,16 +1,23 @@
-## Hi there 👋
+# Oluwamuyiwa Jaiyeola
 
-<!--
-**OluwamuyiwaJaiyeola/OluwamuyiwaJaiyeola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist | Machine Learning | Customer Analytics
 
-Here are some ideas to get you started:
+MSc Data Science & AI (Distinction) – University of Hull
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on projects involving customer behaviour analytics, machine learning, and deep learning research.
+
+## Featured Projects
+
+Customer Cohort & RFM Analysis  
+github.com/oluwamuyiwajaiyeola/ShopSphere_Cohort_Analysis
+
+GAN Training Stability Research  
+github.com/oluwamuyiwajaiyeola/GAN-Stability-Research
+
+## Tools
+
+Python, Pandas, Scikit-learn, TensorFlow, SQL, Power BI
+
+## Contact
+
+LinkedIn: linkedin.com/in/oluwamuyiwa-jaiyeola
